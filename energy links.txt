@@ -1,12 +1,12 @@
 https://www.powerforall.org/insights/technologies/revolutionizing-decentralized-renewable-energy-dre-through-blockchain
-
 https://consensys.net/blockchain-use-cases/energy-and-sustainability/
-
 https://www.sciencedirect.com/science/article/pii/S2667295222000113
-
 https://sustainabilitymag.com/articles/renewable-energy-certificates-the-blockchain-and-the-future
 https://www.mondaq.com/india/renewables/1329378/renewable-energy-certificates-what-why--how
 https://www.ibm.com/blog/revolutionizing-renewable-energy-certificate-markets-with-tokenization/
+https://www.researchgate.net/publication/340314290_Renewable_Energy_Certificate_Markets_Blockchain_Applied
+https://www.mdpi.com/1996-1073/15/13/4603
+www.recregistryindia.nic.in
 
 Designing  an Efficient and Transparent Blockchain for Carbon Credits and Renewable Energy Credits
 
